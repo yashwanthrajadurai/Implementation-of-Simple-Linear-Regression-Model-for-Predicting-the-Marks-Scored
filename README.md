@@ -66,12 +66,14 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
-![Screenshot (72)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/5d5ae391-975b-4894-9e85-e75c2b7e29fd)
+![Screenshot (67)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/e751fe7f-ec30-48e0-a99b-5737aee164c8)
+![Screenshot (68)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/89d3d404-817e-49d7-87d2-4aa024ea596c)
+![Screenshot (69)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/6beba6dd-f14e-4a88-a715-acb67520e95c)
 ![Screenshot (70)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/7c13d56e-cf42-400b-a495-1259ff6f5782)
 ![Screenshot (71)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/1ac474e6-b9dd-4020-83a4-4ee94d3c1518)
-![Screenshot (69)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/6beba6dd-f14e-4a88-a715-acb67520e95c)
-![Screenshot (68)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/89d3d404-817e-49d7-87d2-4aa024ea596c)
-![Screenshot (67)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/e751fe7f-ec30-48e0-a99b-5737aee164c8)
+![Screenshot (72)](https://github.com/yashwanthrajadurai/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462316/5d5ae391-975b-4894-9e85-e75c2b7e29fd)
+
+
 
 ## Result:
 Thus the program to implement the simple linear regression model for predicting the marks scored is written and verified using python programming.
